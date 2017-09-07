@@ -1,2 +1,6 @@
 # Angle_Distance
-Routine that calculates distance between angles
+
+![](examples.png)
+
+Routine that calculates distance between angles.
+It returns absolute difference between angles given in degrees
